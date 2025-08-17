@@ -31,5 +31,9 @@ Bypass-y na najnowsze serwery
 Komendy do personalizacji klienta
 System wiadomosci dziennych, żebyś wiedział, co nowego
 
+Czy działa z optifine ?
+
+Nie ale działa ze sodium itd...
+
 Jak zgłosić błąd lub sugestię?
 Najlepiej przez Discord: dc.gg/amamaki
