@@ -1,8 +1,7 @@
-Veltragrossa Client
 
 Veltragrossa Client by Mevinggs
 
-Ten „shit” robi dokładnie to, co widać — rozpierdala cweli ez. 😎
+Ten „shit” robi dokładnie to, co widać — rozpierdala cweli ez
 
 FAQ
 
